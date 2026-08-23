@@ -7,8 +7,8 @@ interface BookResponseData {
 	item: BookMetadata[];
 }
 
-const itemSearchUrl = 'http://www.aladin.co.kr/ttb/api/ItemSearch.aspx';
-const itemLookupUrl = 'http://www.aladin.co.kr/ttb/api/ItemLookUp.aspx';
+const itemSearchUrl = 'https://www.aladin.co.kr/ttb/api/ItemSearch.aspx';
+const itemLookupUrl = 'https://www.aladin.co.kr/ttb/api/ItemLookUp.aspx';
 
 const baseParams = {
 	Output: 'JS',
