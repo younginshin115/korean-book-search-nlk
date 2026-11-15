@@ -1,7 +1,7 @@
 {
-	"name": "korean-book-search-plugin",
-	"version": "1.4.1",
-	"description": "bookSearch is a plugin for Obsidian that allows you to search for books in your library and view their details.",
+	"name": "korean-book-search-nlk",
+	"version": "1.0.0",
+	"description": "Obsidian plugin that fills in frontmatter with Korean book information from the National Library of Korea API. Unofficial fork of lazerfit/korean-book-search.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
