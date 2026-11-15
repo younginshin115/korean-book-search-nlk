@@ -1,10 +1,10 @@
 {
-	"id": "korean-book-search",
-	"name": "Korean Book Search",
-	"version": "1.4.2",
+	"id": "korean-book-search-nlk",
+	"name": "Korean Book Search NLK",
+	"version": "1.0.0",
 	"minAppVersion": "1.8.10",
-	"description": "Automatically fills in YAML frontmatter with Korean book information from Aladin API based on the note title.",
-	"author": "lazerfit",
-	"authorUrl": "https://github.com/lazerfit",
+	"description": "Fills in YAML frontmatter with Korean book information from the National Library of Korea API based on the note title.",
+	"author": "younginshin115",
+	"authorUrl": "https://github.com/younginshin115",
 	"isDesktopOnly": false
 }
